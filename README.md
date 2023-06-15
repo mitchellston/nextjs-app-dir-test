@@ -4,6 +4,12 @@ This is a simple test for the Next.js app directory.
 
 ---
 
+## Requirements
+
+- Postgresql database
+
+---
+
 ## Getting Started
 
 1. Create a .env file
